@@ -32,22 +32,22 @@ This function, receives 2 arguments and must return true (is anagram) or false.
 
 * Tests:
     - 1. It should return false if the function doesn't receive any word. ✅
-    - 2. Verify if it recognizes that the words are string; ✅
-    - 3. Verify if it recognizes that 'a' is equal to "a"; 
-    - 4. Verify if it recognizes that 'a' is equal to "A";
-    - 5. Verify if it recognizes that 'Ba' is equal to "Ab";
-    - 6. Verify if is true that 'case' is equal to 'esac';
+    - 2. Verify if it recognizes that the words should be string; ✅
+    - 3. Verify if it recognizes that 'a' is equal to "a"; ✅
+    - 4. Verify if it recognizes that 'a' is equal to "A"; ✅
+    - 5. Verify if it recognizes that 'Ba' is equal to "Ab"; ✅
+    - 6. Verify if is true that 'case' is equal to 'esac'; ✅
     - 7. Verify if is false that 'case' is equal to 'easy';
     - 8. Verify if is true that 'baSe' is equal to 'Seab';
     - 9. Verify if is false that 'baSe' is equal to 'Saab';
 
 
 * Session 1 🍅:
-Wrote the case and tests, done tests 1 and 2
+Wrote the case and tests, done tests 1 and 2;
 
 * Session 2 🍅:
-- Refactor cases because I changed the requested.
-- Removed test: For any number, the response must be the product of some integer with itself.
-- Created test: When the given number is 1, the response must be true.
+- Refactor cases;
+- Now, done until test 6;
+- Created about the numbers.
 
 

@@ -37,9 +37,9 @@ This function, receives 2 arguments and must return true (is anagram) or false.
     - 4. Verify if it recognizes that 'a' is equal to "A"; ✅
     - 5. Verify if it recognizes that 'Ba' is equal to "Ab"; ✅
     - 6. Verify if is true that 'case' is equal to 'esac'; ✅
-    - 7. Verify if is false that 'case' is equal to 'easy';
+    - 7. Verify if is false that 'case' is not equal to 'easy';
     - 8. Verify if is true that 'baSe' is equal to 'Seab';
-    - 9. Verify if is false that 'baSe' is equal to 'Saab';
+    - 9. Verify if is false that 'baSe' is not equal to 'Saab';
 
 
 * Session 1 🍅:
@@ -50,4 +50,5 @@ Wrote the case and tests, done tests 1 and 2;
 - Now, done until test 6;
 - Created about the numbers.
 
-
+* Session 3 🍅:
+Tests 7 - 9.

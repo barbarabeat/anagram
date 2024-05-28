@@ -31,4 +31,8 @@ describe('Anagram tests', () => {
     expect(isAnagram('case','esac')).toBe(true);
   }); 
 
+  test("Verify if is false that 'case' is not equal to 'easy'", () => {
+  
+    expect(isAnagram('case','easy')).toBe(false);
+  });   
 })
